@@ -1,0 +1,9 @@
+<project default="clean">
+	<target name="clean">
+		<javac srcdir="./src/main/java" />
+	</target>
+</project>
+
+
+
+java FileUtils.cleanDirectory(/Users/i325420/dev/hybris);
